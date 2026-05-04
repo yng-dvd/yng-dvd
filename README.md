@@ -12,7 +12,7 @@
 
 ---
 
-Atualmente focado na construção de uma base sólida em sistemas axiomáticos e lógica quantificacional. Este GitHub não é apenas um portfólio, mas um andaime externo para o meu processo de aprendizado.
+Atualmente focado na construção de uma base sólida em sistemas axiomáticos e lógica formal. Este GitHub não é apenas um portfólio, mas um andaime externo para o meu processo de aprendizado.
 
 ### Sistema Mnemônico (Método de Loci)
 Utilizo técnicas de visualização para a retenção de conceitos abstratos.
