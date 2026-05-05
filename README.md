@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <samp><b>ARITHMETICA · LOGICA · MNEMOSYNE</b></samp>
+  <samp><b>MATHEMATICA · LOGICA · MNEMOSYNE</b></samp>
   <br><br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Onda Vetorial">
 </p>
