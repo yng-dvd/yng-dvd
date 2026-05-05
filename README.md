@@ -1,24 +1,36 @@
-<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1D21&height=200&section=header&text=MATHEMATICA%20·%20LOGICA%20·%20MNEMOSYNE&fontSize=35&fontAlignY=35&animation=twinkling&desc=%20Formal%20Logic%20&%20Mnemonics&descAlignY=60&descFontSize=15" alt="Banner Mathematica Logica Mnemosyne" />
+  <br>
+  <samp><b>ARITHMETICA · LOGICA · MNEMOSYNE</b></samp>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Onda Vetorial">
 </p>
-
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Formal_Logic-emerald?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Method-Mnemonics-blue?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Deep_Study-white?style=for-the-badge&logo=bookstack&logoColor=black" />
+<table align="left">
+  <tr>
+    <td style="padding: 0 15px 0 0;">
+      <kbd>FOCUS</kbd> &nbsp; <strong>Formal Logic</strong>
+    </td>
+    <td style="padding: 0 15px;">
+      <kbd>METHOD</kbd> &nbsp; <strong>Mnemonics</strong>
+    </td>
+    <td style="padding: 0 0 0 15px;">
+      <kbd>STATUS</kbd> &nbsp; <strong>Deep Study</strong>
+    </td>
+  </tr>
+</table>
+<br clear="left">
 </p>
 
----
-
-Atualmente focado na construção de uma base sólida em sistemas axiomáticos e lógica formal. Este GitHub não é apenas um portfólio, mas um andaime externo para o meu processo de aprendizado.
+Atualmente focado na construção de uma base sólida em sistemas axiomáticos e lógica formal.
+<br>
+Este GitHub não é apenas um portfólio, mas um ambiente externo usado para registro do meu aprendizado.
 
 ### Sistema Mnemônico (Método de Loci)
 Utilizo técnicas de visualização para a retenção de conceitos abstratos.
 *   **Status do Palácio:** Em fase de fundação. 
-*   **Mapeamento Atual:** Definições básicas de SL e QL codificadas em estruturas espaciais específicas (Pátio/Caixa Cinza).
-*  **Rigor fundacional:** Apreensão de conceitos matemáticos, suas estruturas lógicas e como se traduzem em linguagem formal.
+*   **Mapeamento Atual:** Definições básicas de SL e QL codificadas em estruturas espaciais específicas.
+*  **Rigor fundacional:** Como se estabelecem os conceitos matemáticos, suas estruturas lógicas e como se traduzem em linguagem formal.
 
 ### Projetos e Demonstrações
 
