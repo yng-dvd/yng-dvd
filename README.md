@@ -35,3 +35,4 @@ Utilizo técnicas de visualização para a retenção de conceitos abstratos.
 ### Projetos e Demonstrações
 
 * **[logic-studies](https://github.com/yng-dvd/logic-studies)**: Repositório de estudos da lógica formal, incluindo o desenvolvimento crítico de regras derivadas.
+* **[mathematical-study](https://github.com/yng-dvd/mathematical-study)**: Trilha pessoal de matemática.
