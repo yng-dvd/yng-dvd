@@ -26,11 +26,22 @@ Atualmente focado na construção de uma base sólida em sistemas axiomáticos e
 <br>
 Este GitHub não é apenas um portfólio, mas um ambiente externo usado para registro do meu aprendizado.
 
-### Sistema Mnemônico (Método de Loci)
-Utilizo técnicas de visualização para a retenção de conceitos abstratos.
-*   **Status do Palácio:** Em fase de fundação. 
-*   **Mapeamento Atual:** Definições básicas de SL e QL codificadas em estruturas espaciais específicas.
-*  **Rigor fundacional:** Como se estabelecem os conceitos matemáticos, suas estruturas lógicas e como se traduzem em linguagem formal.
+<table>
+  <tr>
+    <td>
+      <h3>Sistema Mnemônico (Método de Loci)</h3>
+      <p>Utilizo técnicas de visualização para a retenção de conceitos abstratos.</p>
+      <ul>
+        <li><strong>Status do Palácio:</strong> Em fase de fundação.</li>
+        <li><strong>Mapeamento Atual:</strong> Definições básicas de SL e QL codificadas em estruturas espaciais específicas.</li>
+        <li><strong>Rigor fundacional:</strong> Como se estabelecem os conceitos matemáticos, suas estruturas lógicas e como se traduzem em linguagem formal.</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <img src="https://static.wixstatic.com/media/18a244_9cb1fd3e526c4696b0baaa8911ed08f2~mv2.gif" alt="Tesserato 4D">
+    </td>
+  </tr>
+</table>
 
 ### Projetos e Demonstrações
 
