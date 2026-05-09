@@ -22,7 +22,7 @@
 <br clear="left">
 </p>
 
-Atualmente focado na construção de uma base sólida em sistemas axiomáticos e lógica formal.
+Atualmente focado na formalização de sistemas dedutivos e na análise semântica de Tarski para lógica de predicados.
 <br>
 Este GitHub não é apenas um portfólio, mas um ambiente externo usado para registro do meu aprendizado.
 
