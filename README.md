@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td>
-      <p>Atualmente focado na formalização de sistemas dedutivos e na análise semântica de Tarski para lógica de predicados.
+      <p>Atualmente focado na formalização dos sistemas dedutivos e na análise semântica de Tarski para lógica de predicados, os fundamentos da matemática e o passo indutivo, a intuição espacial e geométrica, e como os diversos conceitos se relacionam num todo.
       <br>
       Este GitHub não é apenas um portfólio, mas um ambiente externo usado para registro do meu aprendizado.
       </p>
