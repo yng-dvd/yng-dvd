@@ -2,7 +2,7 @@
   <br>
   <samp><b>MATHEMATICA · LOGICA · MNEMOSYNE</b></samp>
   <br><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Onda Vetorial">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png" width="100%" alt="Onda Vetorial">
 </p>
 
 <p align="left">
@@ -38,7 +38,7 @@ Este GitHub não é apenas um portfólio, mas um ambiente externo usado para reg
       </ul>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="https://static.wixstatic.com/media/18a244_9cb1fd3e526c4696b0baaa8911ed08f2~mv2.gif" alt="Tesserato 4D">
+      <img src="https://www.lihaoyi.com/post/deep-dive-mill/Tesseract.gif" alt="Tesserato 4D">
     </td>
   </tr>
 </table>
