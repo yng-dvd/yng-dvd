@@ -1,3 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%">
+  <defs>
+    <linearGradient id="liminal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0e8f5" />
+      <stop offset="40%" stop-color="#c8e6e5" />
+      <stop offset="70%" stop-color="#e1d3ed" />
+      <stop offset="100%" stop-color="#d4e4f7" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#liminal)" rx="12"/>
+
+  <rect x="25" y="25" width="800" height="310" fill="rgba(255, 255, 255, 0.4)" stroke="rgba(255, 255, 255, 0.7)" stroke-width="2" rx="10"/>
+
+  <text x="50" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#2c3e50" letter-spacing="2">MATHEMATICA • LOGICA</text>
+  <line x1="50" y1="85" x2="800" y2="85" stroke="#00d8a4" stroke-width="2" />
+
+  <rect x="50" y="105" width="140" height="28" fill="#ffffff" rx="6" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="62" y="124" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800" fill="#64748b">FOCUS</text>
+  <text x="115" y="124" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#0f172a">Formal Logic</text>
+
+  <rect x="205" y="105" width="135" height="28" fill="#ffffff" rx="6" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="217" y="124" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800" fill="#64748b">STATUS</text>
+  <text x="272" y="124" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#0f172a">Deep Study</text>
+
+  <g font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="#1e293b" font-weight="400">
+    <text x="50" y="180">Atualmente focado na formalização dos sistemas dedutivos e na análise semântica de</text>
+    <text x="50" y="210">Tarski para lógica de predicados, os fundamentos da matemática e o passo indutivo, a</text>
+    <text x="50" y="240">intuição espacial e geométrica, e como os diversos conceitos se relacionam num todo.</text>
+    <text x="50" y="280" font-weight="500" fill="#475569">Este GitHub não é apenas um portfólio, mas um ambiente externo usado para registro</text>
+    <text x="50" y="305" font-weight="500" fill="#475569">do meu aprendizado.</text>
+  </g>
+</svg>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%">
   <defs>
     <linearGradient id="liminal" x1="0%" y1="0%" x2="100%" y2="100%">
