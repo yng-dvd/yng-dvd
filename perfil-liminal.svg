@@ -31,33 +31,3 @@
     <text x="50" y="305" font-weight="500" fill="#475569">do meu aprendizado.</text>
   </g>
 </svg>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%">
-  <defs>
-    <linearGradient id="liminal" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#e0e8f5" />
-      <stop offset="35%" stop-color="#c8e6e5" />
-      <stop offset="70%" stop-color="#e1d3ed" />
-      <stop offset="100%" stop-color="#d4e4f7" />
-    </linearGradient>
-  </defs>
-
-  <rect width="100%" height="100%" fill="url(#liminal)" rx="10"/>
-
-  <rect x="5%" y="10%" width="90%" height="80%" fill="rgba(255, 255, 255, 0.45)" stroke="rgba(255, 255, 255, 0.9)" stroke-width="2" rx="10"/>
-
-  <text x="8%" y="20%" font-family="sans-serif" font-size="14" font-weight="bold" fill="#333" letter-spacing="2">MATHEMATICA • LÓGICA</text>
-  <line x1="8%" y1="24%" x2="92%" y2="24%" stroke="#00d8a4" stroke-width="2" />
-
-  <rect x="8%" y="30%" width="130" height="25" fill="#ffffff" rx="4" stroke="#cccccc" stroke-width="1"/>
-  <text x="10%" y="47%" font-family="sans-serif" font-size="12" fill="#444" font-weight="bold">FOCUS</text>
-  <text x="16%" y="47%" font-family="sans-serif" font-size="12" fill="#000">Formal Logic</text>
-
-  <rect x="26%" y="30%" width="120" height="25" fill="#ffffff" rx="4" stroke="#cccccc" stroke-width="1"/>
-  <text x="28%" y="47%" font-family="sans-serif" font-size="12" fill="#444" font-weight="bold">STATUS</text>
-  <text x="34%" y="47%" font-family="sans-serif" font-size="12" fill="#000">Deep Study</text>
-
-  <text x="8%" y="60%" font-family="sans-serif" font-size="13" fill="#222">Atualmente focado na formalização dos sistemas dedutivos e na análise semântica</text>
-  <text x="8%" y="65%" font-family="sans-serif" font-size="13" fill="#222">de Tarski para lógica de predicados, os fundamentos da matemática e o passo indutivo,</text>
-  <text x="8%" y="70%" font-family="sans-serif" font-size="13" fill="#222">a intuição espacial e geométrica, e como os diversos conceitos se relacionam num todo.</text>
-  <text x="8%" y="75%" font-family="sans-serif" font-size="13" fill="#222">Este GitHub é um ambiente externo usado para registro do meu aprendizado.</text>
-</svg>
